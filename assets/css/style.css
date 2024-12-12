@@ -1,0 +1,27 @@
+.box {
+ width: 200px; 
+ height: 200px;
+}
+
+.container {
+    background-color: black;
+}
+
+.box-purple {
+    background-color: purple; 
+    color: yellow;
+}
+
+.box-blue {
+    background-color: blue; color: orange;
+}
+
+#box-white {
+    color: white;
+}
+
+#box-yellow {
+    color: yellow;
+}
+
+
